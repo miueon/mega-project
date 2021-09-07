@@ -7,3 +7,6 @@
 [submodule "mega-C89-Compiler"]
 	path = mega-C89-Compiler
 	url = git@github.com:miueon/mega-C89-Compiler.git
+[submodule "mega-DB"]
+	path = mega-DB
+	url = git@github.com:miueon/mega-DB.git
