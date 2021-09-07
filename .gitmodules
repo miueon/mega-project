@@ -1,0 +1,9 @@
+[submodule "mega-CPU"]
+	path = mega-CPU
+	url = git@github.com:miueon/mega-CPU.git
+[submodule "mega-OS"]
+	path = mega-OS
+	url = git@github.com:miueon/mega-OS.git
+[submodule "mega-C89-Compiler"]
+	path = mega-C89-Compiler
+	url = git@github.com:miueon/mega-C89-Compiler.git
